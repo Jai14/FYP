@@ -25,7 +25,7 @@ Details of the training images can be found in the `training_set.txt` file. This
 
 ## Known Issues
 
-If the Jupyter Notebook `FYP_test.ipynb` does not load properly, please try reloading it a few times. Alternatively, you can download the file for better readability.
+If the Jupyter Notebook `FYP_test.ipynb` does not load properly, please try reloading it a few times. Alternatively, you can download the file for better readability. The reason for this issue is that these notebooks contain extensive information about the heatmaps of different models, making them bulky and potentially slower to load.
 
 ## Contributor
 
