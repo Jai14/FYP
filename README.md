@@ -29,4 +29,4 @@ If the Jupyter Notebook `FYP_test.ipynb` does not load properly, please try relo
 
 ## Contributor
 
-This project was completed by **Jai Narayana**, a BSc Computer Science student at UCD with student ID 2020464.
+This project was completed by **Jai Narayana**.
