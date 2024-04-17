@@ -16,7 +16,7 @@ To use the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have all dependencies installed (details in `requirements.txt`).
-3. Train the model using the provided training set.
+3. Train/Test the model using the provided training set.
 4. Test the model with new data or real-world images.
 
 ## Training Set Details
